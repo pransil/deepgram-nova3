@@ -1,0 +1,629 @@
+{
+  "metadata": {
+    "transaction_key": "deprecated",
+    "request_id": "f63d5dec-c91a-42cd-a4f9-98c48b10e8c5",
+    "sha256": "49875fd42225f1a813aa3244262ccb48fb69d8cb2400c8e3f9e2e7481b5ffe4c",
+    "created": "2026-03-12T17:04:37.898000Z",
+    "duration": 44.72019,
+    "channels": 1.0,
+    "models": [
+      "2187e11a-3532-4498-b076-81fa530bdd49"
+    ],
+    "model_info": {
+      "2187e11a-3532-4498-b076-81fa530bdd49": {
+        "name": "general-nova-3",
+        "version": "2025-07-31.0",
+        "arch": "nova-3"
+      }
+    }
+  },
+  "results": {
+    "channels": [
+      {
+        "alternatives": [
+          {
+            "transcript": "And so my fellow Americans, ask not what your country can do for you, ask what you can do for your country. My fellow citizens of the world, ask not what America will do for you, but what together we can do for the freedom of man. Finally, whether you are citizens of America or citizens of the world, ask of us here.",
+            "confidence": 0.9985373,
+            "words": [
+              {
+                "word": "and",
+                "start": 0.71999997,
+                "end": 1.04,
+                "confidence": 0.99523574,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "And"
+              },
+              {
+                "word": "so",
+                "start": 1.04,
+                "end": 1.36,
+                "confidence": 0.9917352,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "so"
+              },
+              {
+                "word": "my",
+                "start": 1.36,
+                "end": 1.76,
+                "confidence": 0.7470372,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "my"
+              },
+              {
+                "word": "fellow",
+                "start": 1.76,
+                "end": 2.1599998,
+                "confidence": 0.9990501,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "fellow"
+              },
+              {
+                "word": "americans",
+                "start": 2.1599998,
+                "end": 3.04,
+                "confidence": 0.72429943,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "Americans,"
+              },
+              {
+                "word": "ask",
+                "start": 3.76,
+                "end": 4.32,
+                "confidence": 0.9964461,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "ask"
+              },
+              {
+                "word": "not",
+                "start": 4.4,
+                "end": 5.12,
+                "confidence": 0.99853325,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "not"
+              },
+              {
+                "word": "what",
+                "start": 5.8399997,
+                "end": 6.08,
+                "confidence": 0.990507,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "what"
+              },
+              {
+                "word": "your",
+                "start": 6.08,
+                "end": 6.3999996,
+                "confidence": 0.9956173,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "country",
+                "start": 6.3999996,
+                "end": 6.8799996,
+                "confidence": 0.9995592,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "country"
+              },
+              {
+                "word": "can",
+                "start": 6.8799996,
+                "end": 7.2,
+                "confidence": 0.99983263,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "can"
+              },
+              {
+                "word": "do",
+                "start": 7.2,
+                "end": 7.3599997,
+                "confidence": 0.99961394,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "for",
+                "start": 7.3599997,
+                "end": 7.6,
+                "confidence": 0.99969244,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "you",
+                "start": 7.6,
+                "end": 8.24,
+                "confidence": 0.75355756,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "you,"
+              },
+              {
+                "word": "ask",
+                "start": 8.72,
+                "end": 9.04,
+                "confidence": 0.99640226,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "ask"
+              },
+              {
+                "word": "what",
+                "start": 9.04,
+                "end": 9.36,
+                "confidence": 0.9989028,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "what"
+              },
+              {
+                "word": "you",
+                "start": 9.36,
+                "end": 9.599999,
+                "confidence": 0.99938905,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "can",
+                "start": 9.599999,
+                "end": 9.92,
+                "confidence": 0.9993994,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "can"
+              },
+              {
+                "word": "do",
+                "start": 9.92,
+                "end": 10.08,
+                "confidence": 0.99822277,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "for",
+                "start": 10.08,
+                "end": 10.32,
+                "confidence": 0.999156,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "your",
+                "start": 10.32,
+                "end": 10.559999,
+                "confidence": 0.9985373,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "your"
+              },
+              {
+                "word": "country",
+                "start": 10.559999,
+                "end": 10.88,
+                "confidence": 0.99485105,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "country."
+              },
+              {
+                "word": "my",
+                "start": 18.975,
+                "end": 19.535,
+                "confidence": 0.9798441,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "My"
+              },
+              {
+                "word": "fellow",
+                "start": 19.535,
+                "end": 20.015,
+                "confidence": 0.99419975,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "fellow"
+              },
+              {
+                "word": "citizens",
+                "start": 20.015,
+                "end": 20.655,
+                "confidence": 0.99916136,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "citizens"
+              },
+              {
+                "word": "of",
+                "start": 20.655,
+                "end": 20.975,
+                "confidence": 0.9997888,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "the",
+                "start": 20.975,
+                "end": 21.135,
+                "confidence": 0.9994549,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "world",
+                "start": 21.135,
+                "end": 21.775,
+                "confidence": 0.93706024,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "world,"
+              },
+              {
+                "word": "ask",
+                "start": 22.655,
+                "end": 23.135,
+                "confidence": 0.9216218,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "ask"
+              },
+              {
+                "word": "not",
+                "start": 23.135,
+                "end": 23.855,
+                "confidence": 0.99855226,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "not"
+              },
+              {
+                "word": "what",
+                "start": 24.255001,
+                "end": 24.654999,
+                "confidence": 0.9890646,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "what"
+              },
+              {
+                "word": "america",
+                "start": 24.654999,
+                "end": 25.215,
+                "confidence": 0.98482436,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "America"
+              },
+              {
+                "word": "will",
+                "start": 25.215,
+                "end": 25.535,
+                "confidence": 0.9998394,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "will"
+              },
+              {
+                "word": "do",
+                "start": 25.535,
+                "end": 25.775002,
+                "confidence": 0.9997181,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "for",
+                "start": 25.775002,
+                "end": 26.015,
+                "confidence": 0.9996654,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "you",
+                "start": 26.015,
+                "end": 26.255001,
+                "confidence": 0.9285455,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "you,"
+              },
+              {
+                "word": "but",
+                "start": 27.3,
+                "end": 27.619999,
+                "confidence": 0.99967396,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "but"
+              },
+              {
+                "word": "what",
+                "start": 27.619999,
+                "end": 27.86,
+                "confidence": 0.99867827,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "what"
+              },
+              {
+                "word": "together",
+                "start": 27.86,
+                "end": 28.42,
+                "confidence": 0.99745506,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "together"
+              },
+              {
+                "word": "we",
+                "start": 28.42,
+                "end": 28.66,
+                "confidence": 0.98985296,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "we"
+              },
+              {
+                "word": "can",
+                "start": 28.66,
+                "end": 28.9,
+                "confidence": 0.99946326,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "can"
+              },
+              {
+                "word": "do",
+                "start": 28.9,
+                "end": 29.46,
+                "confidence": 0.99910444,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "do"
+              },
+              {
+                "word": "for",
+                "start": 29.619999,
+                "end": 29.86,
+                "confidence": 0.99657625,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "for"
+              },
+              {
+                "word": "the",
+                "start": 29.86,
+                "end": 30.02,
+                "confidence": 0.999479,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "freedom",
+                "start": 30.02,
+                "end": 30.42,
+                "confidence": 0.99892646,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "freedom"
+              },
+              {
+                "word": "of",
+                "start": 30.42,
+                "end": 30.58,
+                "confidence": 0.99914384,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "man",
+                "start": 30.58,
+                "end": 30.9,
+                "confidence": 0.9921272,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "man."
+              },
+              {
+                "word": "finally",
+                "start": 35.88519,
+                "end": 36.68519,
+                "confidence": 0.98264813,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "Finally,"
+              },
+              {
+                "word": "whether",
+                "start": 36.68519,
+                "end": 37.005188,
+                "confidence": 0.99889874,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "whether"
+              },
+              {
+                "word": "you",
+                "start": 37.005188,
+                "end": 37.245186,
+                "confidence": 0.9999155,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "you"
+              },
+              {
+                "word": "are",
+                "start": 37.245186,
+                "end": 37.805187,
+                "confidence": 0.99970275,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "are"
+              },
+              {
+                "word": "citizens",
+                "start": 38.445187,
+                "end": 39.085186,
+                "confidence": 0.9928804,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "citizens"
+              },
+              {
+                "word": "of",
+                "start": 39.085186,
+                "end": 39.325188,
+                "confidence": 0.9996666,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "america",
+                "start": 39.325188,
+                "end": 40.205185,
+                "confidence": 0.9980001,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "America"
+              },
+              {
+                "word": "or",
+                "start": 40.52519,
+                "end": 40.925186,
+                "confidence": 0.9427271,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "or"
+              },
+              {
+                "word": "citizens",
+                "start": 40.925186,
+                "end": 41.485188,
+                "confidence": 0.99901533,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "citizens"
+              },
+              {
+                "word": "of",
+                "start": 41.485188,
+                "end": 41.805187,
+                "confidence": 0.99970955,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "the",
+                "start": 41.805187,
+                "end": 41.965187,
+                "confidence": 0.99969983,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "the"
+              },
+              {
+                "word": "world",
+                "start": 41.965187,
+                "end": 42.605186,
+                "confidence": 0.97101355,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "world,"
+              },
+              {
+                "word": "ask",
+                "start": 43.325188,
+                "end": 43.805187,
+                "confidence": 0.99695,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "ask"
+              },
+              {
+                "word": "of",
+                "start": 43.805187,
+                "end": 44.04519,
+                "confidence": 0.9856989,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "of"
+              },
+              {
+                "word": "us",
+                "start": 44.04519,
+                "end": 44.205185,
+                "confidence": 0.99963737,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "us"
+              },
+              {
+                "word": "here",
+                "start": 44.205185,
+                "end": 44.605186,
+                "confidence": 0.94097847,
+                "speaker": 0,
+                "speaker_confidence": 1.0,
+                "punctuated_word": "here."
+              }
+            ],
+            "paragraphs": {
+              "transcript": "\nSpeaker 0: And so my fellow Americans, ask not what your country can do for you, ask what you can do for your country. My fellow citizens of the world, ask not what America will do for you, but what together we can do for the freedom of man. Finally, whether you are citizens of America or citizens of the world, ask of us here.",
+              "paragraphs": [
+                {
+                  "sentences": [
+                    {
+                      "text": "And so my fellow Americans, ask not what your country can do for you, ask what you can do for your country.",
+                      "start": 0.71999997,
+                      "end": 10.88
+                    },
+                    {
+                      "text": "My fellow citizens of the world, ask not what America will do for you, but what together we can do for the freedom of man.",
+                      "start": 18.975,
+                      "end": 30.9
+                    },
+                    {
+                      "text": "Finally, whether you are citizens of America or citizens of the world, ask of us here.",
+                      "start": 35.88519,
+                      "end": 44.605186
+                    }
+                  ],
+                  "speaker": 0,
+                  "num_words": 63,
+                  "start": 0.71999997,
+                  "end": 44.605186
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
